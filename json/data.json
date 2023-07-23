@@ -1,0 +1,11 @@
+[
+    {"id":1, "nombre":"Pantalon Jogging Caballero", "precio": 2980, "imagen": "../imagen/1-pantalonjogging.gif"},
+    {"id":2, "nombre":"Pantalon Cargo Dama", "precio": 4576, "imagen": "../imagen/2-pantaloncargomujer.gif"},
+    {"id":3, "nombre":"Pantalon Estampado Dama", "precio": 5637, "imagen": "../imagen/3-pantalonestampadomujer.gif"},
+    {"id":4, "nombre":"Zapatos Caballero", "precio": 6155," imagen": "../imagen/4-zapatoshombre.jpg"},
+    {"id":5, "nombre":"Pantalo Caballero", "precio": 7550, "imagen": "../imagen/5-pantalonazulhombre.jpg"}, 
+    {"id":6, "nombre":"Remera Caballero", "precio": 3813," imagen": "../imagen/6-remeraconcapucha.jpg"},
+    {"id":7, "nombre":"Zapatillas Dama", "precio": 9150," imagen": "../imagen/7-zapatillasdama.gif"},
+    {"id":8, "nombre":"Zapatillas Caballero", "precio": 9510," imagen": "../imagen/8-zapatillashombre.gif"},
+    {"id":9, "nombre":"Mochila Urbana", "precio": 8512," imagen": "../imagen/9-mochilaurbana.gif"}
+]
