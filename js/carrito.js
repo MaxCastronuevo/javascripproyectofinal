@@ -129,7 +129,7 @@ function obtenerInputs () {
         let email = document.getElementById("E-mail").value; 
         document.querySelector(".modal1").innerText="Gracias por su Compra " + nombre + " " + apellido + "!"
         document.querySelector(".modal2").innerText="Su pago se realizo con exito!!!"
-        document.querySelector(".modal3").innerText="En breve recibira un mail en la casilla de correo " + email + " con el detalle del pedido"
+        document.querySelector(".modal3").innerText="En breve recibira un mail en la casilla de correo " + email + " con el detalle del pedido y factura de compra"
         document.querySelector(".btnFinalizar").style.display="block"
     }
 
